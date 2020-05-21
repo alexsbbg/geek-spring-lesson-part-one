@@ -2,6 +2,7 @@ package ru.geekbrains.client.swing;
 
 import ru.geekbrains.client.AuthException;
 import ru.geekbrains.client.Network;
+
 import javax.swing.*;
 import javax.swing.border.LineBorder;
 import java.awt.*;
